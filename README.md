@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mitchel Noble 
-
 ### A recent full-stack software engineering graduate. 
+
 
 
 🔭 I’m currently working on my portfolio website
@@ -9,7 +9,7 @@
 
 ⚡ Fun fact: I'm a professional musician and music producer!
 
-[My Music Portfolio](https://soundcloud.com/mitchelparkernoble)
+[SoundCloud Music Portfolio](https://soundcloud.com/mitchelparkernoble)
 
 🌱 I’m currently learning Redux and diving deeper into MongoDB 
 
