@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning Redux and diving deeper into MongoDB 
 
-🤔 I’m looking for help with UX/UI design principles
+
 
 📫 How to reach me: mitchelparkernoble@gmail.com
 
@@ -24,6 +24,6 @@
 - 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about ...
-- 
+- 🤔 I’m looking for help with open-source development
 
 -->
