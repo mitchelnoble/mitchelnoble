@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mitchel Noble 
+# Hi there 👋 I'm Mitch 
 ### A recent full-stack software engineering graduate. 
 
 
