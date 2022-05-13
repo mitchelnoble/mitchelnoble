@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mitch 
-### A recent full-stack software engineering graduate. 
+### A full-stack software engineering graduate from General Assembly. 
 
 
 
