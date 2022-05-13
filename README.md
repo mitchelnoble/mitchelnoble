@@ -3,7 +3,13 @@
 
 
 
-🔭 I’m currently working on my portfolio website
+🔭 I’m currently working as a Web Developer for: 
+
+Infinitone
+
+[www.Infinitone.com](https://www.Infinitone.com)
+
+Esuna Rose Healing & Wellness (website pending, but you can see my portfolio site here!)
 
 [www.MitchelNoble.com](https://www.mitchelnoble.com)
 
@@ -11,7 +17,7 @@
 
 [SoundCloud Music Portfolio](https://soundcloud.com/mitchelparkernoble)
 
-🌱 I’m currently learning Redux and diving deeper into MongoDB 
+🌱 I’m currently going through FreeCodeCamp.org for it's backend certificate and working on my AWS certification. 
 
 
 
