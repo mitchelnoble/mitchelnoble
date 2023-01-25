@@ -9,15 +9,15 @@ Infinitone
 
 [www.Infinitone.com](https://www.Infinitone.com)
 
-Esuna Rose Healing & Wellness (website pending, but you can see my portfolio site here!)
+Esuna Rose Healing & Wellness
 
-[www.MitchelNoble.com](https://www.mitchelnoble.com)
+[www.EsunaRoseHealWell.com](https://www.EsunaRoseHealWell.com)
 
 ⚡ Fun fact: I'm a professional musician and music producer!
 
 [SoundCloud Music Portfolio](https://soundcloud.com/mitchelparkernoble)
 
-🌱 I’m currently going through FreeCodeCamp.org for it's backend certificate and working on my AWS certification. 
+🌱 I’m currently going through FreeCodeCamp.org for it's backend certificate and working on my AWS certification, along with a Javascript Algorithim Master Class. 
 
 
 
