@@ -17,8 +17,6 @@ Esuna Rose Healing & Wellness
 
 [SoundCloud Music Portfolio](https://soundcloud.com/mitchelparkernoble)
 
-🌱 I’m currently going through FreeCodeCamp.org for it's backend certificate and working on my AWS certification, along with a Javascript Algorithim Master Class. 
-
 
 
 📫 How to reach me: mitchelparkernoble@gmail.com
